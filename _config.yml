@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "test github file.txt", title: test document, icon: Document}
   - {title: "/Search", url: "https://google.com", icon: Search}
   - {title: /LAB, icon: labs}
+  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:miguelmonteroit@gmail.com"}
