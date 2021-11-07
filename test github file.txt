@@ -1,3 +1,8 @@
-##this is a test from my personal website in github.
-#H1
+-----------
+title: "files"
+layout: "default"
+------
+##Personal file
+this is a test from my personal website in github.
+H1
 This is a test
