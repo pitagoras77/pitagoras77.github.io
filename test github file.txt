@@ -1,7 +1,8 @@
------------
-- {title: files}
-- {layout: default}
-------
+---
+title: "File"
+permalink: "/file/"
+layout: page
+---
 ##Personal file
 this is a test from my personal website in github.
 H1
