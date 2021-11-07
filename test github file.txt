@@ -1,6 +1,6 @@
 ---
 title: "File"
-permalink: "/title/"
+permalink: "/:title/"
 layout: page
 ---
 ##Personal file
