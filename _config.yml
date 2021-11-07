@@ -17,7 +17,6 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: Home}
-  - {file: "UNLICENSE.txt", title: "file", icon: file}
   - {title: "Search", url: "https://google.com", icon: Search}
   - {file: "README.md"}
 
