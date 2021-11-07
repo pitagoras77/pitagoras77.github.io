@@ -1,6 +1,6 @@
 -----------
-title: "files"
-layout: "default"
+- {title: files}
+- {layout: default}
 ------
 ##Personal file
 this is a test from my personal website in github.
