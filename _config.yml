@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blog", icon: Blog}
   - {title: "Search", url: "https://google.com", icon: Search}
   - {file: "README.md"}
+  - {file: "labs.md", title: "Labs", icon: labs }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:miguelmonteroit@gmail.com"}
