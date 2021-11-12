@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "blog.md"}
-  - {title: "Search", url: "https://google.com", icon: Search}
+  - {file: "blog.md", icon: blog}
+  - {title: "SEARCH", url: "https://google.com", icon: Search}
   - {file: "README.md"}
   - {file: "labs.md"}
-  - {file: "index.html"}
+  - {file: "index.html", icon: home}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
