@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "blog.md", title: "Blog", icon: Blog}
+  - {file: "blog.md"}
   - {title: "Search", url: "https://google.com", icon: Search}
   - {file: "README.md"}
-  - {file: "labs.md", title: "Labs", icon: labs }
+  - {file: "labs.md"}
   - {file: "index.html"}
   
 
