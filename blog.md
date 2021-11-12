@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: "/Blog"
-title: "blog.md"
+title: "BLOG"
 ---
 
 {% if site.show_excerpts %}
